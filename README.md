@@ -61,9 +61,13 @@ Colunas:
     
 
 🔍 Consultas Realizadas
+
+
  📝 Consulta para listar todas as compras realizadas por um cliente específico:
 
 ![Lista de compras Joao](images/lista.png)
+
+
  📝 Consulta que mostra o saldo disponível de um cartão após todas as compras:
 
 ![Saldo disponivel de um cliente após compras realizadas](images/saldoDisponivel.png)
