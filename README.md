@@ -59,4 +59,7 @@ Colunas:
 
     id_cartao (INT, FK): Relaciona a compra a um cartão.
 
+🔍 Consultas Realizadas
 
+Consulta:
+![Lista de compras Joao](C:\Users\milit\OneDrive\Documentos\project-DB\images)
