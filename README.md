@@ -66,13 +66,13 @@ Colunas:
 ![Lista de compras Joao](images/lista.png)
  📝 Consulta que mostra o saldo disponível de um cartão após todas as compras:
 
-![Saldo disponivel de um cliente após compras realizadas ]("images/saldoDisponivel.png")
+![Saldo disponivel de um cliente após compras realizadas](images/saldoDisponivel.png)
 
 📝 Consulta que exibe um resumo detalhado das compras realizadas por cliente:
 
-![Resumo de compras]("images/resumoDetalhado.png")
+![Resumo de compras](images/resumoDetalhado.png)
 
 📝 Consulta que pesquisa o cliente com compra acima de R$ 2.000,00:
 
-![Nome de cliente com total de compras acima de R$ 2000,00]("images/pesquisaNome.png")
+![Nome de cliente com total de compras acima de R$ 2000,00](images/pesquisaNome.png)
 
