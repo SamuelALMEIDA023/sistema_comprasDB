@@ -62,4 +62,4 @@ Colunas:
 🔍 Consultas Realizadas
 
 Consulta:
-![Lista de compras Joao](C:\Users\milit\OneDrive\Documentos\project-DB\images)
+![Lista de compras Joao]("C:\Users\milit\OneDrive\Documentos\project-DB\images\lista.png")
