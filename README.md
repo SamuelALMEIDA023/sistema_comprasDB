@@ -80,3 +80,17 @@ Colunas:
 
 ![Nome de cliente com total de compras acima de R$ 2000,00](images/pesquisaNome.png)
 
+
+📖 Como Executar o Projeto
+
+1. Clone este repositório em sua máquina local:
+   git clone <URL_DO_REPOSITORIO>
+
+2. Abra o arquivo tabelas.sql em seu editor SQL preferido e execute os comandos para criar as tabelas.
+
+3. Insira os dados necessários nas tabelas conforme sua necessidade.
+
+4. Execute as consultas no arquivo consultas.sql para verificar os resultados.
+
+
+
