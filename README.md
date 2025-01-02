@@ -105,6 +105,7 @@ Este projeto foi desenvolvido para:
 💡 Entender Banco de Dados: Desenvolver uma base sólida no uso de SQL para projetos reais.
 
 
+
 📬 Contato Gostou do projeto? Quer conversar mais? Entre em contato comigo! 
 📧 Email: sa_muelmarcos@hotmail.com 💼 LinkedIn: www.linkedin.com/in/samuel-marcos-almeida 📂 GitHub: www.linkedin.com/in/samuel-marcos-almeida
 
