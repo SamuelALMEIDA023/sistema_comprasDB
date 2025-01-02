@@ -84,13 +84,27 @@ Colunas:
 📖 Como Executar o Projeto
 
 1. Clone este repositório em sua máquina local:
+
    git clone <URL_DO_REPOSITORIO>
 
-2. Abra o arquivo tabelas.sql em seu editor SQL preferido e execute os comandos para criar as tabelas.
+3. Abra o arquivo tabelas.sql em seu editor SQL preferido e execute os comandos para criar as tabelas.
 
-3. Insira os dados necessários nas tabelas conforme sua necessidade.
+4. Insira os dados necessários nas tabelas conforme sua necessidade.
 
-4. Execute as consultas no arquivo consultas.sql para verificar os resultados.
+5. Execute as consultas no arquivo consultas.sql para verificar os resultados.
 
 
+❓ Por Que Este Projeto?
+
+Este projeto foi desenvolvido para:
+
+📚 Aprender SQL: Explorar a criação de tabelas, definição de atributos e tipos de dados.
+
+🔍 Praticar Consultas: Realizar consultas SQL para manipular e extrair informações do banco de dados.
+
+💡 Entender Banco de Dados: Desenvolver uma base sólida no uso de SQL para projetos reais.
+
+
+📬 Contato Gostou do projeto? Quer conversar mais? Entre em contato comigo! 
+📧 Email: sa_muelmarcos@hotmail.com 💼 LinkedIn: www.linkedin.com/in/samuel-marcos-almeida 📂 GitHub: www.linkedin.com/in/samuel-marcos-almeida
 
